@@ -1,5 +1,5 @@
 # Machine Learning Inference using AWS Lambda and Amazon EFS
-Repository for Deploying multiple machine learning models for inference on AWS Lambda and Amazon EFS
+Repository for deploying multiple machine learning models for inference on AWS Lambda and Amazon EFS
 
 ## Introduction 
 
@@ -35,6 +35,15 @@ Now, we are going to use a single SAM deployment to deploy this, which will crea
 - __app2(ml-inference)__: The serverless application which will perform the ML Inference from the client. 
 
 ![Architecture Diagram](img/img2.png)
+
+# Demo Walkthrough
+
+Here is a quick walkthrough of the demo:
+
+![Video Walkthrough](video-walkthrough/demo.mp4)
+
+
+
 
 
 
