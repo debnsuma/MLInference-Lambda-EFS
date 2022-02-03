@@ -3,5 +3,5 @@ torch==1.8.0+cpu
 torchvision==0.9.0+cpu
 requests
 scikit-image
-pip install opencv-python-headless==4.5.4.60
+opencv-python-headless==4.5.4.60
 easyocr
